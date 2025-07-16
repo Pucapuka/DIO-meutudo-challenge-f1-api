@@ -85,4 +85,5 @@ Retorna um piloto específico
 
 ISC
 
-## Desenvolvido por Paulo Lima a partir do boilerplate do Felipão (@felipeAguiarCode)
+## Desenvolvido por Paulo Lima a partir do boilerplate do Felipão 
+[@felipeAguiarCode](https://github.com/felipeAguiarCode/felipeAguiarCode)
